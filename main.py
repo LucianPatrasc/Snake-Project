@@ -29,6 +29,6 @@ while game_is_on :
         food.refresh()
 
 
-
+ion = 1
 
 screen.exitonclick()
