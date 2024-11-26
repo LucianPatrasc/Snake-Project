@@ -18,4 +18,3 @@ class Food(Turtle):
 
 
 
-ion = 1
